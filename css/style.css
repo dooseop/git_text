@@ -57,8 +57,9 @@ body{
     cursor: pointer;
     outline: none;
 }
+
 #tasks{
-    background-color: #fff;
+    background-color: #ffffff;
     padding: 30px 20px;
     margin-top: 60px;
     border-radius: 10px;
